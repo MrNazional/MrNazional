@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Seyit Ali Karakuş](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&width=820&height=64&lines=SEYIT+ALI+KARAKUS;FULL+STACK+DEVELOPER;PYTHON+%2F%2F+REACT+NATIVE;BAKU+NODE+%3A%3A+ONLINE)](https://git.io/typing-svg)
+[![Seyit Ali Karakuş](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&width=1400&height=72&lines=SEYIT+ALI+KARAKUS;FULL+STACK+DEVELOPER;PYTHON+%2F%2F+REACT+NATIVE;BAKU+NODE+%3A%3A+ONLINE)](https://git.io/typing-svg)
 
 [![durum](https://img.shields.io/badge/durum-çevrimiçi-00F0FF?style=flat-square&labelColor=07060d)](https://github.com/MrNazional)
 [![rol](https://img.shields.io/badge/rol-full%20stack-FF2BD6?style=flat-square&labelColor=07060d)](https://github.com/MrNazional)
@@ -58,7 +58,7 @@ yığın   Python · React Native · JavaScript · PyQt5 · MySQL
 
 <br>
 
-[![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=07060d&labelColor=07060d)](https://github.com/MrNazional)
+[![PyQt5](https://img.shields.io/badge/PyQt5-00F0FF?style=for-the-badge&logo=qt&logoColor=07060d&labelColor=07060d)](https://github.com/MrNazional)
 
 </td>
 <td width="50%" valign="top">
@@ -75,8 +75,8 @@ yığın   Python · React Native · JavaScript · PyQt5 · MySQL
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MrNazional&show_icons=true&include_all_commits=true&bg_color=07060d&title_color=00f0ff&icon_color=ff2bd6&text_color=d6deea&border_color=241433&ring_color=00f0ff&hide_border=false" alt="GitHub istatistikleri">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNazional&layout=compact&langs_count=6&bg_color=07060d&title_color=00f0ff&text_color=d6deea&border_color=241433&hide_border=false" alt="En çok kullanılan diller">
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=MrNazional&show_icons=true&include_all_commits=true&bg_color=07060d&title_color=00f0ff&icon_color=ff2bd6&text_color=d6deea&border_color=241433&ring_color=00f0ff&hide_border=false" alt="GitHub istatistikleri">
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MrNazional&layout=compact&langs_count=6&bg_color=07060d&title_color=00f0ff&text_color=d6deea&border_color=241433&hide_border=false" alt="En çok kullanılan diller">
 
 <br>
 
